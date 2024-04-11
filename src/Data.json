@@ -1,0 +1,11 @@
+[
+  { "city": "Brisbane", "code": "BNE", "country": "Australia" },
+  { "city": "Bali (Denpasar)", "code": "DPS", "country": "Indonesia" },
+  { "city": "Barcelona", "code": "BCN", "country": "S pain" },
+  { "city": "Bangkok Suvarnabhumi", "code": "BKK", "country": "Thailand" },
+  { "city": "Berlin Brandenburg", "code": "BER", "country": "Germany" },
+  { "city": "Budapest", "code": "BUD", "country": " Hungary" },
+  { "city": "Cairns", "code": "CNS", "country": "Australia" },
+  { "city": "Copenhagen", "code": "CP H", "country": "Denmark" },
+  { "city": "Cairo", "code": "CAI", "country": "Egypt" }
+]
